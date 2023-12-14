@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Ram Manoj\Downloads\Brillius_Pvtltd_Hybrid\Brillius_Pvtltd_Hybrid\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3165352865.index
+3413725848.index
